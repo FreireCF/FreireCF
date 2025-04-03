@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szfreire.0@gmail.com)
 
 ![Clecio´s GitHub stats](https://github-readme-stats.vercel.app/api?username=freirecf&show_icons=true&theme=dark)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreireCF)](https://github.com/anuraghazra/github-readme-stats)
 
 
