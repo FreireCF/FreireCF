@@ -7,7 +7,7 @@
 
 ![Clecio´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FreireCF&show_icons=true&theme=dark)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreireCF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freirecf)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies I use in my daily life
