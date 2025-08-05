@@ -3,8 +3,8 @@
 ## 💻 Computer Science Student 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FreireCF&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreireCF&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freirecf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freirecflayout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ##
@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
