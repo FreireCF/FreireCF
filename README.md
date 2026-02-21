@@ -2,10 +2,6 @@
 
 <h3 align="center">💻 Computer Science Student | Backend Java Developer in Progress 🚀</h3>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
 
   <img height="170em"
@@ -13,19 +9,16 @@
 
 </div>
 
----
+<br>
 
-## 📈 Activity Graph
+<!-- ## Contribution 
 
 <div align="center">
-
-  <img width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=FreireCF&theme=tokyo-night" />
-
+  <img src="https://raw.githubusercontent.com/FreireCF/FreireCF/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
-
+-->
 ## 🧠 Technologies I use in my daily life
 
 <div align="center">
@@ -39,17 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
 </div>
 
----
-
-## 🚀 Currently Learning
-
-- Spring Boot
-- REST APIs
-- Clean Architecture
-- Data Structures & Algorithms
-- System Design fundamentals
-
----
+<br>
 
 ## 📫 How to reach me
 
