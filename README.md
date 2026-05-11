@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<!--  <img height="170em"
+ <img height="170em"
   src="https://streak-stats.demolab.com?user=FreireCF&theme=tokyonight&hide_border=false" />
 
 </div>
